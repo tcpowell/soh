@@ -1,0 +1,2 @@
+https://github.com/HarbourMasters/Shipwright/releases/download/8.0.4/SoH-MacReady-Echo-Win64.zip
+https://github.com/HarbourMasters/Shipwright/releases/download/8.0.3/SoH-MacReady-Delta-Win64.zip

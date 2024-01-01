@@ -2,19 +2,54 @@
 
 
 REM Check for Games dir
-echo Checking for %USERPROFILE%\Games
-if not exist "%USERPROFILE%\Games" mkdir %USERPROFILE%\Games
+if not exist "%USERPROFILE%\Games" (
+echo Creating directory %USERPROFILE%\Games...
+mkdir %USERPROFILE%\Games
+)
+
+echo Updating repository
 
 
-REM Git pull
-git fetch --all
-git reset --hard origin/master
+git fetch --all --quiet
+git reset --hard origin/master --quiet
 
 
 
 
 
 REM Check for latest zip
+for /F "tokens=* delims=/" %%i in (soh_list.txt) do (
+
+
+  if exist "%USERPROFILE%\Games\%%~ni" (
+    echo Already on the latest version
+  ) else (
+  echo New version found: %%~ni
+  
+  echo Creating directory %USERPROFILE%\Games\%%~ni
+  mkdir %USERPROFILE%\Games\%%~ni
+  
+  echo Downloading zip: %%i
+  wget %%i -q -P %TEMP%
+  
+  echo Extracting zip to %USERPROFILE%\Games\%%~ni
+  tar -xf %TEMP%\%%~nxi -C %USERPROFILE%\Games\%%~ni
+  
+  echo Cleaning up temporary files
+  del %TEMP%\%%~nxi
+  )
+
+
+
+goto :break
+)
+
+
+:break
+echo done
+
+
+
 REM Check for existing installs
 REM Download latest
 REM 

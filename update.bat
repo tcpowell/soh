@@ -10,8 +10,8 @@ mkdir %USERPROFILE%\Games
 echo Updating repository
 
 
-git fetch --all --quiet
-git reset --hard origin/master --quiet
+git fetch --all
+git reset --hard origin/master
 
 
 

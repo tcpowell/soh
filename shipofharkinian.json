@@ -1,0 +1,589 @@
+{
+    "CVars": {
+        "gAltAssets": 1,
+        "gAlwaysShowDungeonMinimapIcon": 1,
+        "gAssignableTunicsAndBoots": 1,
+        "gAutosave": 1,
+        "gBSwordTrailBottomColHue": 262.8883972167969,
+        "gBSwordTrailTopColHue": 262.8883972167969,
+        "gBetaQuestWorld": 65519,
+        "gBetterOwl": 1,
+        "gBluePotionHealth": 1,
+        "gBluePotionMana": 1,
+        "gBombTrailColHue": 262.8883972167969,
+        "gBombchusOOB": 0,
+        "gBoomTrailEndColHue": 262.8883972167969,
+        "gBoomTrailStartColHue": 262.8883972167969,
+        "gBowReticle": 1,
+        "gCCABtnPrimHue": 184.61190795898438,
+        "gCCBBtnPrimHue": 184.61190795898438,
+        "gCCCBtnPrimHue": 184.61190795898438,
+        "gCCCDBtnPrimHue": 184.61190795898438,
+        "gCCCLBtnPrimHue": 184.61190795898438,
+        "gCCCRBtnPrimHue": 184.61190795898438,
+        "gCCCUBtnPrimHue": 184.61190795898438,
+        "gCCDDHeartsPrimHue": 184.61190795898438,
+        "gCCDpadPrimHue": 184.61190795898438,
+        "gCCEquipmentsPrimHue": 184.61190795898438,
+        "gCCFileChoosePrimHue": 184.61190795898438,
+        "gCCFileChooseTextPrimHue": 184.61190795898438,
+        "gCCGameoverPrimHue": 184.61190795898438,
+        "gCCHeartsPrimHue": 184.61190795898438,
+        "gCCItemsPrimHue": 184.61190795898438,
+        "gCCKeysPrimHue": 184.61190795898438,
+        "gCCMagicBorderNormPrimHue": 184.61190795898438,
+        "gCCMagicBorderPrimHue": 184.61190795898438,
+        "gCCMagicPrimHue": 184.61190795898438,
+        "gCCMagicUsePrimHue": 184.61190795898438,
+        "gCCMapsPrimHue": 184.61190795898438,
+        "gCCMinimapCPPrimHue": 184.61190795898438,
+        "gCCMinimapDGNPrimHue": 184.61190795898438,
+        "gCCMinimapLEPrimHue": 184.61190795898438,
+        "gCCMinimapPrimHue": 184.61190795898438,
+        "gCCQuestsPrimHue": 184.61190795898438,
+        "gCCRupeePrimHue": 184.61190795898438,
+        "gCCSavePrimHue": 184.61190795898438,
+        "gCCStartBtnPrimHue": 184.61190795898438,
+        "gCCVSOAPrimHue": 184.61190795898438,
+        "gCharged1ColEnvHue": 184.61190795898438,
+        "gCharged1ColHue": 184.61190795898438,
+        "gCharged2ColEnvHue": 184.61190795898438,
+        "gCharged2ColHue": 184.61190795898438,
+        "gCheatEasyPauseBufferLastInputs": 0,
+        "gClimbSpeed": 1,
+        "gCosmetics": {
+            "DefaultColorScheme": 0,
+            "Link_BodyScale": {
+                "Changed": 1,
+                "Value": 0.010999999940395355
+            }
+        },
+        "gCrouchStabFix": 0,
+        "gDDCCHeartsPrimHue": 184.61190795898438,
+        "gDF_ColHue": 184.61190795898438,
+        "gDF_EnvHue": 184.61190795898438,
+        "gDamageMul": 0,
+        "gDebugEnabled": 0,
+        "gDekuNutUpgradeFix": 0,
+        "gDisableBlackBars": 0,
+        "gDisableDrawDistance": 0,
+        "gDisableGrottoRotation": 1,
+        "gDisableKokiriDrawDistance": 0,
+        "gDisableLOD": 0,
+        "gDog1ColHue": 184.61190795898438,
+        "gDog2ColHue": 184.61190795898438,
+        "gDpadEquips": 1,
+        "gDpadNoDropOcarinaInput": 1,
+        "gDpadPause": 0,
+        "gDpadText": 0,
+        "gDynamicWalletIcon": 1,
+        "gEnableMultiViewports": 1,
+        "gEnemyHealthBar": 1,
+        "gExtraLatencyThreshold": 80,
+        "gFairyHealth": 1,
+        "gFairyReviveHealth": 1,
+        "gFastChests": 1,
+        "gFastDrops": 1,
+        "gFastOcarinaPlayback": 1,
+        "gFasterBlockPush": 1,
+        "gFireArrowColEnvHue": 184.61190795898438,
+        "gFireArrowColHue": 184.61190795898438,
+        "gForgeTime": 3,
+        "gFreeCamera": 0,
+        "gGravediggingTourFix": 1,
+        "gGreenPotionMana": 1,
+        "gGuardVision": 0,
+        "gHalfMilkHealth": 1,
+        "gHammerTrailBottomColHue": 262.8883972167969,
+        "gHammerTrailTopColHue": 262.8883972167969,
+        "gHideBuildInfo": 1,
+        "gHookshotableReticle": 1,
+        "gHoverFishing": 0,
+        "gHudColors": 0,
+        "gIceArrowColEnvHue": 184.61190795898438,
+        "gIceArrowColHue": 184.61190795898438,
+        "gInfiniteHealth": 0,
+        "gInfiniteMoney": 0,
+        "gInjectItemCounts": 1,
+        "gInjectSkulltulaCount": 1,
+        "gInputEnabled": 0,
+        "gInputScale": 1.0,
+        "gInternalResolution": 1.0,
+        "gInterpolationFPS": 60,
+        "gInvertYAxis": 1,
+        "gKSwordTrailBottomColHue": 262.8883972167969,
+        "gKSwordTrailTopColHue": 262.8883972167969,
+        "gKeese1_Ef_EnvHue": 184.61190795898438,
+        "gKeese1_Ef_PrimHue": 184.61190795898438,
+        "gKeese2_Ef_EnvHue": 184.61190795898438,
+        "gKeese2_Ef_PrimHue": 184.61190795898438,
+        "gLanguages": 0,
+        "gLightArrowColEnvHue": 184.61190795898438,
+        "gLightArrowColHue": 184.61190795898438,
+        "gMSAAValue": 3,
+        "gMSwordTrailBottomColHue": 262.8883972167969,
+        "gMSwordTrailTopColHue": 262.8883972167969,
+        "gMilkHealth": 1,
+        "gMinFrameCount": 6,
+        "gMinimalUI": 0,
+        "gMweepSpeed": 3,
+        "gN64Mode": 0,
+        "gN64WeirdFrames": 0,
+        "gNL_Diamond_ColHue": 184.61190795898438,
+        "gNL_Diamond_EnvHue": 184.61190795898438,
+        "gNL_Orb_ColHue": 184.61190795898438,
+        "gNL_Orb_EnvHue": 184.61190795898438,
+        "gNaviTextFix": 0,
+        "gNewDrops": 1,
+        "gNoForcedNavi": 1,
+        "gNoInputForCredits": 1,
+        "gNormalArrowColEnvHue": 262.8883972167969,
+        "gNormalArrowColHue": 262.8883972167969,
+        "gOnFileSelectNameEntry": 0,
+        "gOverlayFont": "Fipps",
+        "gPauseBufferBlockInputFrame": 0,
+        "gPauseLiveLink": 1,
+        "gPauseTriforce": 0,
+        "gRandoMatchKeyColors": 1,
+        "gRandoRelevantNavi": 1,
+        "gRandomizeRupeeNames": 1,
+        "gRandomizer": 0,
+        "gRedGanonBlood": 1,
+        "gRedPotionEffect": 0,
+        "gRedPotionHealth": 1,
+        "gSaveFileID": 4,
+        "gSfxEditor": 0,
+        "gSkipLogoTitle": 1,
+        "gSkulltulaDebugEnabled": 0,
+        "gSkulltulaFreeze": 1,
+        "gSpoilerLog": "",
+        "gStartBtnPosType": 0,
+        "gStartBtnPosX": 0,
+        "gStartBtnPosY": 0,
+        "gStartBtnUseMargins": 0,
+        "gStickTrailBottomColHue": 262.8883972167969,
+        "gStickTrailTopColHue": 262.8883972167969,
+        "gSwordTrailBottomColHue": 262.8883972167969,
+        "gSwordTrailTopColHue": 262.8883972167969,
+        "gTextSpeed": 3,
+        "gTextureFilter": 1,
+        "gTimeFlowFileSelect": 1,
+        "gTrailColHue": 282.79290771484375,
+        "gTrailDuration": 4,
+        "gTunic_GoronHue": 262.8883972167969,
+        "gTunic_Goron_Hue": 282.79290771484375,
+        "gTunic_KokiriHue": 262.8883972167969,
+        "gTunic_Kokiri_Hue": 282.79290771484375,
+        "gTunic_ZoraHue": 262.8883972167969,
+        "gTunic_Zora_Hue": 197.94149780273438,
+        "gTwoHandedIdle": 0,
+        "gUniformLR": 0,
+        "gUseNaviCol": 0,
+        "gUseTunicsCol": 0,
+        "gVisualAgony": 0
+    },
+    "ConfigVersion": 2,
+    "Controllers": {
+        "030000000d0f0000c100000072056800": {
+            "Slot_0": {
+                "Gyro": {
+                    "Enabled": false
+                },
+                "Mappings": {
+                    "BTN_0": 517,
+                    "BTN_1": 7,
+                    "BTN_1024": 12,
+                    "BTN_131072": 512,
+                    "BTN_16": 10,
+                    "BTN_16384": 1,
+                    "BTN_2": 3,
+                    "BTN_2048": 11,
+                    "BTN_256": 14,
+                    "BTN_262144": 513,
+                    "BTN_32": 9,
+                    "BTN_32768": 0,
+                    "BTN_4": 2,
+                    "BTN_4096": 6,
+                    "BTN_512": 13,
+                    "BTN_524288": -513,
+                    "BTN_65536": -512,
+                    "BTN_8": 8,
+                    "BTN_8192": 516
+                },
+                "Rumble": {
+                    "Enabled": true,
+                    "Strength": 1.0
+                },
+                "Thresholds": {
+                    "1": 16.0,
+                    "2": 16.0,
+                    "3": 7680.0,
+                    "4": 7680.0,
+                    "5": 0.0,
+                    "6": 0.0,
+                    "7": 16.0,
+                    "8": 1.0
+                }
+            },
+            "Slot_1": {
+                "Gyro": {
+                    "Enabled": false
+                },
+                "Mappings": {
+                    "BTN_1": 514,
+                    "BTN_1024": 12,
+                    "BTN_131072": 512,
+                    "BTN_16": 517,
+                    "BTN_16384": 1,
+                    "BTN_2": -514,
+                    "BTN_2048": 11,
+                    "BTN_256": 14,
+                    "BTN_262144": 513,
+                    "BTN_32": 9,
+                    "BTN_32768": 0,
+                    "BTN_4": 515,
+                    "BTN_4096": 6,
+                    "BTN_512": 13,
+                    "BTN_524288": -513,
+                    "BTN_65536": -512,
+                    "BTN_8": -515,
+                    "BTN_8192": 516
+                },
+                "Rumble": {
+                    "Enabled": true,
+                    "Strength": 1.0
+                },
+                "Thresholds": {
+                    "1": 16.0,
+                    "2": 16.0,
+                    "3": 7680.0,
+                    "4": 7680.0,
+                    "5": 0.0,
+                    "6": 0.0,
+                    "7": 16.0,
+                    "8": 1.0
+                }
+            },
+            "Slot_2": {
+                "Gyro": {
+                    "Enabled": false
+                },
+                "Mappings": {
+                    "BTN_1": 514,
+                    "BTN_1024": 12,
+                    "BTN_131072": 512,
+                    "BTN_16": 517,
+                    "BTN_16384": 1,
+                    "BTN_2": -514,
+                    "BTN_2048": 11,
+                    "BTN_256": 14,
+                    "BTN_262144": 513,
+                    "BTN_32": 9,
+                    "BTN_32768": 0,
+                    "BTN_4": 515,
+                    "BTN_4096": 6,
+                    "BTN_512": 13,
+                    "BTN_524288": -513,
+                    "BTN_65536": -512,
+                    "BTN_8": -515,
+                    "BTN_8192": 516
+                },
+                "Rumble": {
+                    "Enabled": true,
+                    "Strength": 1.0
+                },
+                "Thresholds": {
+                    "1": 16.0,
+                    "2": 16.0,
+                    "3": 7680.0,
+                    "4": 7680.0,
+                    "5": 0.0,
+                    "6": 0.0,
+                    "7": 16.0,
+                    "8": 1.0
+                }
+            },
+            "Slot_3": {
+                "Gyro": {
+                    "Enabled": false
+                },
+                "Mappings": {
+                    "BTN_1": 514,
+                    "BTN_1024": 12,
+                    "BTN_131072": 512,
+                    "BTN_16": 517,
+                    "BTN_16384": 1,
+                    "BTN_2": -514,
+                    "BTN_2048": 11,
+                    "BTN_256": 14,
+                    "BTN_262144": 513,
+                    "BTN_32": 9,
+                    "BTN_32768": 0,
+                    "BTN_4": 515,
+                    "BTN_4096": 6,
+                    "BTN_512": 13,
+                    "BTN_524288": -513,
+                    "BTN_65536": -512,
+                    "BTN_8": -515,
+                    "BTN_8192": 516
+                },
+                "Rumble": {
+                    "Enabled": true,
+                    "Strength": 1.0
+                },
+                "Thresholds": {
+                    "1": 16.0,
+                    "2": 16.0,
+                    "3": 7680.0,
+                    "4": 7680.0,
+                    "5": 0.0,
+                    "6": 0.0,
+                    "7": 16.0,
+                    "8": 1.0
+                }
+            }
+        },
+        "Auto": {
+            "Slot_0": {
+                "Gyro": {
+                    "Enabled": false
+                },
+                "Notches": {
+                    "ProximityThreshold": 0
+                },
+                "Rumble": {
+                    "Enabled": false,
+                    "Strength": 1.0
+                },
+                "UseStickDeadzoneForButtons": false,
+                "Version": 2
+            },
+            "Slot_1": {
+                "Gyro": {
+                    "Enabled": false
+                },
+                "Notches": {
+                    "ProximityThreshold": 0
+                },
+                "Rumble": {
+                    "Enabled": false,
+                    "Strength": 1.0
+                },
+                "UseStickDeadzoneForButtons": false,
+                "Version": 2
+            },
+            "Slot_2": {
+                "Gyro": {
+                    "Enabled": false
+                },
+                "Notches": {
+                    "ProximityThreshold": 0
+                },
+                "Rumble": {
+                    "Enabled": false,
+                    "Strength": 1.0
+                },
+                "UseStickDeadzoneForButtons": false,
+                "Version": 2
+            },
+            "Slot_3": {
+                "Gyro": {
+                    "Enabled": false
+                },
+                "Notches": {
+                    "ProximityThreshold": 0
+                },
+                "Rumble": {
+                    "Enabled": false,
+                    "Strength": 1.0
+                },
+                "UseStickDeadzoneForButtons": false,
+                "Version": 2
+            }
+        },
+        "Deck": {
+            "Slot_0": "Keyboard",
+            "Slot_1": "Disconnected",
+            "Slot_2": "Disconnected",
+            "Slot_3": "Disconnected"
+        },
+        "Keyboard": {
+            "Slot_0": {
+                "AxisDeadzones": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Gyro": {
+                    "Enabled": false
+                },
+                "Mappings": {
+                    "17": 524288,
+                    "18": 32,
+                    "19": 16,
+                    "20": 2048,
+                    "28": 4096,
+                    "30": 65536,
+                    "31": 262144,
+                    "32": 131072,
+                    "328": 524288,
+                    "33": 512,
+                    "331": 65536,
+                    "333": 131072,
+                    "336": 262144,
+                    "34": 1024,
+                    "35": 256,
+                    "42": 64,
+                    "44": 8192,
+                    "45": 32768,
+                    "46": 16384,
+                    "54": 128,
+                    "57": 4096,
+                    "72": 8,
+                    "75": 2,
+                    "77": 1,
+                    "80": 4
+                },
+                "Notches": {
+                    "ProximityThreshold": 0
+                },
+                "Rumble": {
+                    "Enabled": false,
+                    "Strength": 1.0
+                },
+                "Thresholds": {
+                    "7": 0.0
+                },
+                "UseStickDeadzoneForButtons": false,
+                "Version": 2
+            },
+            "Slot_1": {
+                "Gyro": {
+                    "Enabled": false
+                },
+                "Mappings": {
+                    "17": 524288,
+                    "18": 32,
+                    "19": 16,
+                    "20": 2048,
+                    "30": 65536,
+                    "31": 262144,
+                    "32": 131072,
+                    "328": 8,
+                    "33": 512,
+                    "331": 2,
+                    "333": 1,
+                    "336": 4,
+                    "34": 1024,
+                    "35": 256,
+                    "42": 64,
+                    "44": 8192,
+                    "45": 32768,
+                    "46": 16384,
+                    "54": 128,
+                    "57": 4096
+                },
+                "Notches": {
+                    "ProximityThreshold": 0
+                },
+                "Rumble": {
+                    "Enabled": false,
+                    "Strength": 1.0
+                },
+                "UseStickDeadzoneForButtons": false,
+                "Version": 2
+            },
+            "Slot_2": {
+                "Gyro": {
+                    "Enabled": false
+                },
+                "Mappings": {
+                    "17": 524288,
+                    "18": 32,
+                    "19": 16,
+                    "20": 2048,
+                    "30": 65536,
+                    "31": 262144,
+                    "32": 131072,
+                    "328": 8,
+                    "33": 512,
+                    "331": 2,
+                    "333": 1,
+                    "336": 4,
+                    "34": 1024,
+                    "35": 256,
+                    "42": 64,
+                    "44": 8192,
+                    "45": 32768,
+                    "46": 16384,
+                    "54": 128,
+                    "57": 4096
+                },
+                "Notches": {
+                    "ProximityThreshold": 0
+                },
+                "Rumble": {
+                    "Enabled": false,
+                    "Strength": 1.0
+                },
+                "UseStickDeadzoneForButtons": false,
+                "Version": 2
+            },
+            "Slot_3": {
+                "Gyro": {
+                    "Enabled": false
+                },
+                "Mappings": {
+                    "17": 524288,
+                    "18": 32,
+                    "19": 16,
+                    "20": 2048,
+                    "30": 65536,
+                    "31": 262144,
+                    "32": 131072,
+                    "328": 8,
+                    "33": 512,
+                    "331": 2,
+                    "333": 1,
+                    "336": 4,
+                    "34": 1024,
+                    "35": 256,
+                    "42": 64,
+                    "44": 8192,
+                    "45": 32768,
+                    "46": 16384,
+                    "54": 128,
+                    "57": 4096
+                },
+                "Notches": {
+                    "ProximityThreshold": 0
+                },
+                "Rumble": {
+                    "Enabled": false,
+                    "Strength": 1.0
+                },
+                "UseStickDeadzoneForButtons": false,
+                "Version": 2
+            }
+        }
+    },
+    "Window": {
+        "AudioBackend": "wasapi",
+        "Backend": {
+            "Id": 0,
+            "Name": "DirectX 11"
+        },
+        "Fullscreen": {
+            "Enabled": true,
+            "Height": 1440,
+            "Width": 2560
+        },
+        "GfxBackend": "dx11",
+        "Height": 480,
+        "Options": false,
+        "PositionX": 100,
+        "PositionY": 100,
+        "Width": 640
+    }
+}

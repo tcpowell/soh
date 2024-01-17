@@ -1,0 +1,15 @@
+3ds_adult_link.otr
+3ds_young_link.otr
+Djipi's 3DE - 01 Main Textures.otr
+Djipi's 3DE - 03 Objects Animals.otr
+Djipi's 3DE - 04 Objects Animals Textures (3DS).otr
+Djipi's 3DE - 05 Objects Inventory.otr
+Djipi's 3DE - 06 Objects Inventory Textures (3DS).otr
+Djipi's 3DE - 07 Objects Temples.otr
+Djipi's 3DE - 08 Objects Temple Texture(3DS).otr
+Djipi's 3DE - 09 Objects World.otr
+Djipi's 3DE - 10 Objects World Texture(3DS).otr
+Djipi's 3DE - 11 Objects NPC.otr
+Djipi's 3DE - 12 Objects NPC Texture(3DS).otr
+Djipi's 3DE - Z - Crescent Moon Addon (OPTIONAL).otr
+Restored Fire Temple Theme.otr

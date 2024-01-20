@@ -271,3 +271,5 @@ with open(sohURLs) as f:
             teardown()
             
         linenum+=1
+
+teardown()
